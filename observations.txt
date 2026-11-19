@@ -4,3 +4,4 @@ Hand completely over it: 265 - 288 for visible and 297 - 317 was inrared light
 When paper over it: visible is around 250 to 260 and inrared is almost consistently 260.
 while in mail box with the slit - inrared at 280, while paper is over it with the slit it is at 260
 
+With the motion sensor, it seems a little sensitive to motion. The tiniest motion is detected. 
